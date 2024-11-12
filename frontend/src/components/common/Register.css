@@ -1,0 +1,79 @@
+*{
+  font-family: "Raleway", sans-serif;
+}
+  .navbar {
+    background-color: #201E43;
+    padding: 1rem 1.5rem;
+  }
+  
+  .navbar a {
+    color: #ffffff;
+    padding: 0 1rem;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s ease;
+  }
+  
+  .navbar a:hover {
+    color: #a7f3d0;
+  }
+  
+  /* Main Container Styling */
+  .first-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 2rem;
+    background-color:#134B70;
+  }
+  
+  .main-container {
+    width: 100%;
+    max-width: 480px;
+    background-color:#eeee;
+    padding: 2rem;
+    border-radius: 16px;
+    box-shadow: 0px 10px 24px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  
+  /* Avatar */
+  .avatar {
+    background-color: #508C9B;
+    margin-bottom: 1.5rem;
+  }
+  
+
+  /* Dropdown Styling */
+  .dropdown-toggle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f1f5f9;
+    font-weight: 500;
+    color: #4b5563;
+    padding: 0.85rem;
+    width: 100%;
+  }
+  
+  .dropdown-menu {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  .dropdown-item {
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    color: #374151;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #4f46e5;
+    color: #ffffff;
+  }
+
+ 

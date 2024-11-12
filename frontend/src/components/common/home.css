@@ -1,0 +1,44 @@
+#home-container{
+    background-color:#201E43;
+}
+
+.moto{
+    color:#eeee;
+    font-size: 13vh;
+    font-weight: bolder;
+}
+.content-home button {
+    background-color: #eeee;
+    color: #201E43;
+    font-weight: bold;
+    border:none;
+    padding:2vh;
+  }
+
+.content-home button:hover {
+    color: #eeee;
+    background-color: #201E43;
+    font-weight: bold;
+    border:#eeee;
+
+  }
+
+.menubtns{
+    background-color: #eeee;
+    color:#201E43;
+    padding:2vh;
+    margin-right:1vh;
+    font-weight: 400;
+    text-decoration:none;
+}
+
+.menubtns:hover{
+    background-color: #201E43;
+    color:#eeee;
+}
+
+.second-container{
+    background-color: #134B70;
+    color:#eeee;
+    background-size: cover;
+}
