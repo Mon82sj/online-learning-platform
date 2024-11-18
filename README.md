@@ -7,12 +7,12 @@ This project is developed as part of the **Naan Mudhalvan** program, specificall
 ## Project Team
 **Team ID:** NM2024TMID02141
 
-| Name             | Register Number | Program ID                          |
-|------------------|-----------------|-------------------------------------|
-| **Monica G**     | 412721104028    | 1C1EFBBA6904C668C8C4FED80E1D85A7    |  
-| **Jayashri A**   | 412721104016    | 1514D2A08C56DD0A7EF49A01FDE5242A    |
-| **Aakash D**     | 412721104001    | 2642B0426B4DBEDBA0C418C7F7261DFB    |
-| **Sourav Anand N** | 412721104048 | 1A9C4E316076016B4744B98C284D15BC    |
+|S.No.| Name             | Register Number | Program ID                          |
+|-----|------------------|-----------------|-------------------------------------|
+| 01  | **Monica G**     | 412721104028    | 1C1EFBBA6904C668C8C4FED80E1D85A7    |  
+| 02  | **Jayashri A**   | 412721104016    | 1514D2A08C56DD0A7EF49A01FDE5242A    |
+| 03  | **Aakash D**     | 412721104001    | 2642B0426B4DBEDBA0C418C7F7261DFB    |
+| 04  | **Sourav Anand N** | 412721104048 | 1A9C4E316076016B4744B98C284D15BC    |
 
 > **Note:** We are students of the Computer Science and Engineering department of **Tagore Engineering College** (College code: 4127) in our 7th semester.
 
